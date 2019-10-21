@@ -1,7 +1,7 @@
 # CyChess
 For our Computer Science 309 course, at Iowa State University during the Fall of 2018, me and three other team members created a chess application for desktop and/or android. We were able to run this easily by using the Java libGDX framework for client-side development. For server-side we used Springboot, another Java development platform and we used a MySQL database to store user information.
 
-## Features on Client (99% done by me)
+## Features on Client (20% done by me)
 - Three roles: admin, mod, and user
 - Playing a game against another player in real time
 - Friendslist that displayed all users in the database
@@ -12,7 +12,7 @@ For our Computer Science 309 course, at Iowa State University during the Fall of
 - Leader boards
 - Casual and Ranked games
 
-## Features on Server (20% done by me)
+## Features on Server (100% done by me)
 - Website
 - View and post announcements
 - Login page and ability to create an account
