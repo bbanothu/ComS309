@@ -18,6 +18,8 @@ For our Computer Science 309 course, at Iowa State University during the Fall of
 - Login page and ability to create an account
 - Delete users information from database (if you are an admin)
 - Settings page to change user name, email, password, or delete account
+- Mysql database configuration
+- Java Springboot backend server for all game logic and requests from client. 
 
 ## New Things Learned
 - Setting up a SpringBoot server that can handle GET/POST requests
