@@ -77,7 +77,7 @@ public class Login extends Table {
 
         //TODO temporary, remove later
         email.setText("pjd@iastate.edu");
-        password.setText("12345");
+        password.setText("login");
     }
 
     /**
