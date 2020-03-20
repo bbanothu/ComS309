@@ -31,6 +31,20 @@ CREATE TABLE `role` (
 
 
 --
+-- Table structure for table `game_list`
+--
+
+
+DROP TABLE IF EXISTS `game_list`;
+CREATE TABLE `game_list` (
+  `game_id` int(11) NOT NULL AUTO_INCREMENT,
+  `p1_id` varchar(255) NOT NULL,
+  `p2_id` varchar(255) NOT NULL,
+  `round` int(11) DEFAULT NULL,
+  `latestBoard` longtext,
+  PRIMARY KEY (`game_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=latin1
+--
 -- Table structure for table `user`
 --
 
