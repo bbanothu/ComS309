@@ -32,3 +32,11 @@ For our Computer Science 309 course, at Iowa State University during the Fall of
 ## Pictures
 ![friendslist](https://user-images.githubusercontent.com/28559051/39897088-6793bf9a-5476-11e8-972f-da7bc878a628.png)
 ![leaderboards](https://user-images.githubusercontent.com/28559051/39897089-67a7cdb4-5476-11e8-9613-bfc038809770.png)
+![Spectate](https://raw.githubusercontent.com/bbanothu/CYChess/master/CyChess_Pics/Spectate.png)
+![HomeScreen](https://raw.githubusercontent.com/bbanothu/CYChess/master/CyChess_Pics/homeScreen.png)
+![Live Game](https://raw.githubusercontent.com/bbanothu/CYChess/master/CyChess_Pics/liveGame.png)
+![login](https://raw.githubusercontent.com/bbanothu/CYChess/master/CyChess_Pics/login.png)
+![register](https://raw.githubusercontent.com/bbanothu/CYChess/master/CyChess_Pics/register.png)
+![Website Home](https://raw.githubusercontent.com/bbanothu/CYChess/master/CyChess_Pics/websiteHome.png)
+![Website Home](https://raw.githubusercontent.com/bbanothu/CYChess/master/CyChess_Pics/websiteHome.png)
+![Website Register](https://raw.githubusercontent.com/bbanothu/CYChess/master/CyChess_Pics/websiteRegister.png)
