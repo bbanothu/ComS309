@@ -1,4 +1,4 @@
-# CyChess
+# CyChess - A multiplatform chess application (Java Spring, LibGDX) 
 For our Computer Science 309 course, at Iowa State University during the Fall of 2018, me and three other team members created a chess application for desktop and/or android. We were able to run this easily by using the Java libGDX framework for client-side development. For server-side we used Springboot, another Java development platform and we used a MySQL database to store user information.
 
 ## Features on Client (20% done by me)
